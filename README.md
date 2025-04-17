@@ -4,13 +4,26 @@ The e-commerce website project is a full-stack web development project that invo
 
 #Output:
 - The Homepage
+<img width="1505" alt="Home brew1" src="https://github.com/user-attachments/assets/568ae97e-54ee-44cd-9d11-6c4114b2d573" />
+<img width="1507" alt="Home brew2" src="https://github.com/user-attachments/assets/42d04dac-1994-43c6-953e-befbf098d051" />
+<img width="1505" alt="Home brew3" src="https://github.com/user-attachments/assets/16b194f9-1525-4fd8-8c2c-a60827c880c4" />
+<img width="1506" alt="Home brew4" src="https://github.com/user-attachments/assets/8c958759-9331-4061-a6f5-c83554485aa6" />
+<img width="1504" alt="Home brew5" src="https://github.com/user-attachments/assets/543a90cc-2d61-4ebb-95b1-6d170a64dd76" />
+<img width="1506" alt="Home brew6" src="https://github.com/user-attachments/assets/2e50df1e-5cb6-4946-8dbc-325a49b5396c" />
+<img width="1506" alt="Home brew7" src="https://github.com/user-attachments/assets/3f21c62c-e7ce-4d9d-b975-8e250081a7e1" />
+<img width="1506" alt="Home brew8" src="https://github.com/user-attachments/assets/66e08c03-defd-4d32-9a32-69611dbbcd3f" />
+<img width="1507" alt="Home brew9" src="https://github.com/user-attachments/assets/270fe343-4276-4d68-bb41-812d77daf489" />
 
-![Screenshot 2024-02-15 175626](https://github.com/aryankumar120/E-commerce_Website/assets/134778655/0961d84b-8f52-4141-9b7c-5ca624534c7b)
-![Screenshot 2024-02-15 175638](https://github.com/aryankumar120/E-commerce_Website/assets/134778655/32e680a1-5fb6-4fff-a7aa-b31e2441242e)
-![Screenshot 2024-02-15 175650](https://github.com/aryankumar120/E-commerce_Website/assets/134778655/4eb1e4fe-f26a-4484-869e-700206ae527d)
-![Screenshot 2024-02-15 175710](https://github.com/aryankumar120/E-commerce_Website/assets/134778655/f4c3ed1b-b8c5-4822-8773-15e7d0d4ac58)
-![Screenshot 2024-02-15 175737](https://github.com/aryankumar120/E-commerce_Website/assets/134778655/d54c0d40-71e7-459d-b409-62bf9e375e88)
-![Screenshot 2024-02-15 175757](https://github.com/aryankumar120/E-commerce_Website/assets/134778655/4ab963d2-58fc-4607-a942-9f7c0b1f3550)
+
+
+
+
+
+
+
+
+
+
 
 - Cart Page linked to homepage ( Can add any item to the cart )
 
